@@ -26,7 +26,7 @@ Como inspiração foi utilizado o seguinte design: [Virtual Zoo Mobile App - Ani
 
 
 > Funcionalidades do App
-* Com o app é possível buscar por por 10 animais aleatorios clicando no botão no centro da tela home, e ao clicar em determinado animal é exibido os detalhes do mesmo.
+* Com o app é possível buscar por 10 animais aleatorios clicando no botão no centro da tela home, e ao clicar em determinado animal é exibido os detalhes do mesmo.
 
 
 ## Tecnologias utilizadas
