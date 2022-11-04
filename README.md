@@ -1,52 +1,50 @@
-# Teste Vaga Dev Flutter na Houseasy
-Repositório a fim de testar candidatos para vaga de Dev Flutter Jr na Empresa https://houseasy.net/
-
-| Para esta vaga, buscamos alguém apaixonado por mobile e atento aos detalhes!
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> 
-</div>
+# Easy Zoo App
 
 
-  # Instruções a respeito do repositório
-  
-    1 - Faça um Fork deste repositório
-    2 - Implemente um layout fiel, segue link para inspiração: https://dribbble.com/
-    3 - Ao terminar, atualize o README.md no seu repositório com as instruções de instalação e como executar o projeto.
-    
-    
-  # Stack
-    
-    - Dart/Flutter
-    
-  # Desafio
-  
+Aplicativo desenvolvido em Flutter para consulta de animais de um zoologico utilizando a API [Zoo Animal API](https://zoo-animal-api.herokuapp.com/) 
+## Author
 
-      
-  
-    1 - O App deve conter um layout refinado, seguindo padrões do Flutter
-        - Responsivo
-        - Usando de maneira adequada os Componentes/Widgets
-        - Autenticação de Usuário
-        - Signout
-        - Dados de API (qualquer API, use a criatividade)
-                - Implementar funcionalidades
-                - Animações
-                                               
-     2 - O App deve seguir uma arquitetura limpa, organizada, como por exemplo um MVC (model, view, controller) (apenas exemplo)
-                                       
-                      
-     3 - O Código deve estar legível (auto explicativo)
-                - Nome de variáveis de fácil entendimento
-                - Métodos com nomes de fácil entendimento
-                - Documentado (exemplo: mostrando o que cada função faz)
-                - Código limpo, tudo muito bem separado entre tela, dados e regra do negócio.
+**Edson Gomes** 
+
+* *Meu perfil profissional no* [LinkedIn](https://www.linkedin.com/in/edson-gomes-b5b3a175/)
+
+
+
+
+ 
+</pre>
+##  Bibliotecas de terceiros:
+ 
+ <pre>
+  http: ^0.13.5
+  provider: ^6.0.4
+  shared_preferences: ^2.0.15
+ </pre>
+ 
+
+
+> Funcionalidades do App
+* Com o app é possível buscar por por 10 animais aleatorios clicando no botão no centro da tela home, e ao clicar em determinado animal é exibido os detalhes do mesmo.
+
+
+## Tecnologias utilizadas
+
+Para este projeto foram utilizados as seguintes tecnologias:
+
+* Dart[https://dart.dev/]
+* Flutter[https://flutter.dev/]
+* Provider[https://pub.dev/packages/provider]
+
+## Para executar este projeto você precisa:
+
+
+
+- Ter o [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina
+- Ter algum editor de códigos ou IDE como o [Android Studio](https://developer.android.com/studio),[VSCode](https://code.visualstudio.com/) ou [Intellij Idea](https://www.jetbrains.com/pt-br/idea/download/). 
+
+Caso opte por IDEs como as duas sugeridas acima, o processo de execução do aplicativo funcionará através de um botão de play na parte superior que ambas dispõem. Caso escolha rodar o projeto via linha de comandos, utilize o comando `flutter run`. Lembre-se de antes de executar o comando de navegar até a pasta do projeto antes. 
+
+
                 
-           
-   ## Final
-                
-    - Subir o repositório no seu Github e enviar o link com o assunto: Teste Dev. Flutter para Carlos Henrique em carlos.souza@houseasy.net
-     e no e-mail, informar do que se trata sua aplicação, com um breve resumo.
-        
+
         
